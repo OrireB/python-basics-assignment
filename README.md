@@ -35,4 +35,4 @@ By completing this assignment, you will be able to:
 Make sure you have Python installed. Then run the script using:
 
 ```bash
-python main.py
+main.py
